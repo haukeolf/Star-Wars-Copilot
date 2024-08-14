@@ -1,0 +1,7 @@
+- [ ] Integration VS Code
+- [ ] Code Suggestions Realtime
+- [ ] Code Explain
+- [ ] Code Documentation
+- [ ] Code generation via comment
+- [ ] Refactoring
+- [ ] Terminal
